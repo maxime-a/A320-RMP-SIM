@@ -2,7 +2,7 @@
 
 Code is running on Processing 3, with controlP5 graphical library. Pictures in the RMP folder are needed for background and buttons.
 
-[!/RMP/Fond.png]
+![RMP](/RMP/Fond.png)
 
 ## Processing code
 
